@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [hymanimy/isabelle-revamp](https://github.com/hymanimy/isabelle-revamp).**
+>
+> Submitted version: [`0427b72`](https://github.com/science-works/rtw-2026-isabelle-revamp/tree/0427b723b081d3ae7796f3541380be4bf119dc38). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # Isabelle Revamp
 
 ![Isabelle Revamp proving Michaelis–Menten monotonicity in VS Code](docs/images/demo-michaelis-menten.png)
